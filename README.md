@@ -16,3 +16,9 @@ This project contains the coding exercises. Topics covered:
 * Streams
 
 * Collections API enhancements
+
+## Setup Java 8 for Eclipse
+
+* Install [Java 8](https://jdk8.java.net/download.html) early access release
+* Install latest [Eclipse Kepler](http://www.eclipse.org/downloads/)
+* Follow instructions [here](http://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_%28BETA%29) to add Java 8 support for Eclipse
