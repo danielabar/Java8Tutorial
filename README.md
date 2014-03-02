@@ -1,7 +1,7 @@
 Java 8 Tutorial Day
 ======
 
-The Toronto Java User Group hosted a Java 8 Tutorial Day on Feb. 22, 2014.
+The [Toronto Java User Group](http://www.tjug.ca/) hosted a [Java 8 Tutorial Day](https://www.eventbrite.ca/e/java-8-tutorial-day-tickets-10053764079) on Feb. 22, 2014.
 
 This project contains the coding exercises. Topics covered:
 
